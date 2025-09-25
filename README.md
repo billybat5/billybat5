@@ -39,7 +39,7 @@ Estoy inmerso en el desarrollo móvil, especialmente con Flutter y Dart, con el 
 
 ### 📫 Conectemos
 
-(Aquí puedes añadir enlaces a tu LinkedIn, Twitter, etc. si lo deseas) 🤝
+(LinkedIn, Twitter, Email) 🤝
 
 ---
 
